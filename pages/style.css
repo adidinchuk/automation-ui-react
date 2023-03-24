@@ -1,0 +1,20 @@
+.joystick {
+    width: 100px;
+    margin: 0 auto;
+    position: absolute;
+    padding-bottom: 10px;
+    bottom: 0;
+}
+
+.mobile-grid {
+    height: 95vh;
+}
+
+body {
+    margin: 0px;
+    background-color: #e1e1e3;
+}
+
+.center-contents{
+    text-align: center;
+}
