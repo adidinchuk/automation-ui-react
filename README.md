@@ -4,8 +4,6 @@ React based user interface for automation and robotics projects
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Installation
-
 _Follow the steps below to build and run the application._
 
 
